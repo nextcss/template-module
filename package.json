@@ -1,5 +1,5 @@
 {
-  "name": "@nextcss/{package}",
+  "name": "@nextcss/template-module",
   "version": "0.1.0",
   "description": "",
   "keywords": [],
@@ -26,12 +26,12 @@
   "funding": "https://github.com/sponsors/toviszsolt",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nextcss/{package}"
+    "url": "https://github.com/nextcss/template-module"
   },
   "bugs": {
-    "url": "https://github.com/nextcss/{package}/issues"
+    "url": "https://github.com/nextcss/template-module/issues"
   },
-  "homepage": "https://github.com/nextcss/{package}",
+  "homepage": "https://github.com/nextcss/template-module",
   "scripts": {
     "watch": "rollup -c -w",
     "build": "jest --verbose && rollup -c",
