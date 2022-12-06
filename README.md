@@ -4,8 +4,8 @@
 - Create `LICENSE` file
 - Update `README` file
 - Update `package.json` file
-- Start coding in `src/index.js`
-- Add test in `test/index.js`
+- Start coding in `src/` folder
+- Add tests in `test/` folder
 - Workflow uses Codecov
 
 ---
