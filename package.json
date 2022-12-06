@@ -1,0 +1,49 @@
+{
+  "name": "@nextcss/{package}",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.js",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist/*"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": {
+    "name": "Zsolt Tovis",
+    "email": "tovis.zsolt@gmail.com",
+    "url": "https://toviszsolt.github.io/"
+  },
+  "funding": "https://github.com/sponsors/toviszsolt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nextcss/{package}"
+  },
+  "bugs": {
+    "url": "https://github.com/nextcss/{package}/issues"
+  },
+  "homepage": "https://github.com/nextcss/{package}",
+  "scripts": {
+    "watch": "rollup -c -w",
+    "build": "jest --verbose && rollup -c",
+    "test": "jest --watch",
+    "coverage": "jest --collect-coverage"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "latest",
+    "@rollup/plugin-commonjs": "latest",
+    "@rollup/plugin-node-resolve": "latest",
+    "jest": "latest",
+    "rollup": "latest",
+    "rollup-plugin-terser": "latest"
+  }
+}
