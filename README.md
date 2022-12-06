@@ -1,6 +1,6 @@
 ## Getting Started
 
-- Clone the repository
+- Click to `Use this template` button
 - Create `LICENSE` file
 - Update `README` file
 - Update `package.json` file
