@@ -4,7 +4,7 @@
 If you discover a security vulnerability in this project, please report it to us by sending an email to admin@nextcss.com. We will do our best to promptly address the issue.
 
 ## Responsible Disclosure
-We value the work of the security community and encourage responsible disclosure of vulnerabilities. If you are unsure if a behavior is a security vulnerability, please send an email to [SECURITY EMAIL ADDRESS] explaining the suspected issue. We will work with you to determine if the behavior is a security vulnerability and will provide guidance on how to proceed.
+We value the work of the security community and encourage responsible disclosure of vulnerabilities. If you are unsure if a behavior is a security vulnerability, please send an email to admin@nextcss.com explaining the suspected issue. We will work with you to determine if the behavior is a security vulnerability and will provide guidance on how to proceed.
 
 ## Vulnerability Disclosure Timeline
 We will do our best to follow the following timeline when addressing reported vulnerabilities:
