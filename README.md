@@ -1,7 +1,7 @@
 ## Getting Started
 
 - Click to `Use this template` button
-- Create `LICENSE` file
+- Update `LICENSE` file
 - Update `README` file
 - Update `package.json` file
 - Start coding in `src/` folder
