@@ -60,4 +60,4 @@ To learn about the guidelines, please read the [Code of Conduct](https://github.
 
 MIT License @ {YEAR} [Zsolt Tövis](https://github.com/toviszsolt)
 
-If you found this project interesting, please consider supporting my open source work by [sponsoring me](https://github.com/sponsors/toviszsolt) / [give the repo a star](https://github.com/nextcss) / [follow the nextcss project](https://github.com/nextcss).
+If you found this project interesting, please consider supporting my open source work by [sponsoring me](https://github.com/sponsors/toviszsolt) / [give the repo a star](https://github.com/nextcss/template-module) / [follow the nextcss project](https://github.com/nextcss).
